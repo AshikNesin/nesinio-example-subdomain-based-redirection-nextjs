@@ -1,0 +1,16 @@
+{
+    "redirect_links": {
+        "qsite": {
+            "paths": {
+                "/signup": "https://app.qsite.co",
+                "*": "https://qsite.co"
+            }
+        },
+        "an": {
+            "paths": {
+                "/about": "https://AshikNesin.com/about",
+                "*": "https://AshikNesin.com"
+            }
+        }
+    }
+}
